@@ -5,7 +5,12 @@ const nextConfig = {
       {
         protocol: "https",
         hostname: "www.topcloset.gr"
-      }
+      },
+      {
+        protocol: "https",
+        hostname: "static.wixstatic.com"
+      },
+
     ]
   }
 };
